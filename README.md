@@ -43,23 +43,22 @@ FULLSTACK TASK MANAGER APP
 
 AI TASK CLASSIFICATION ✅
 
-Auto priority (high/medium/low) + category
+1)Auto priority (high/medium/low) + category
 
-Preview before save + user override
+2)Preview before save + user override
 
-Priority sorting (high first)
+3)Priority sorting (high first)
 
-PROFESSIONAL FLUTTER ✅
+4)PROFESSIONAL FLUTTER ✅
 
-Material 3 UI + skeleton loaders
+5)Material 3 UI + skeleton loaders
 
-Riverpod + Dio interceptors
+6)Riverpod + Dio interceptors
 
-Pull-to-refresh + offline mode
+7)Pull-to-refresh + offline mode
 
-Form validation + error SnackBars
+8)Form validation + error SnackBars
 
-text
 
 ## ✅ **Assessment Checklist**
 | Item | Status | Notes |
@@ -92,7 +91,6 @@ FRONTEND: Flutter 3.x + Riverpod 2.x + Dio 5.x + Material 3
 DEPLOYMENT: Render.com
 TOOLS: Git/GitHub + VS Code
 
-text
 
 **✓ Riverpod** - Auto loading/error states  
 **✓ Dio** - HTTP interceptors + timeout  
@@ -112,16 +110,35 @@ text
 
 ### **Flutter Web (Chrome)**
 cd flutter
-flutter pub get
-flutter run -d chrome --web-renderer canvaskit
+Press 2 For Chrome
 
-text
 
-### **Flutter Android (Physical Phone)**
-1. **Enable Developer Mode** → Tap **Build Number** 7x
-2. **USB Debugging** → Settings → Developer Options → ON
-3. Connect USB → **Allow debugging**
-4. `flutter run` → Select phone
+### 📱 Flutter Android (Physical Phone) - Step by Step
+
+**Step 1: Enable Developer Mode**
+1. Open **Settings** app
+2. Go to **About Phone** (or **About Device**)
+3. Find **Build Number** (tap **Software Information** if needed)
+4. **Tap Build Number 7 times** fast → "You are now a developer!"
+
+**Step 2: Enable USB Debugging**
+1. Go back to **Settings** main menu
+2. Find **Developer Options** (or **System > Developer Options**)
+3. Turn **ON Developer Options** toggle
+4. Scroll to **USB Debugging** → Turn **ON**
+
+
+**Step 3: Connect Phone**
+1. Use **USB cable** (data cable, not charging only)
+2. Phone shows popup: **"Allow USB debugging?"** → Tap **Allow**
+3. (Optional) Check **"Always allow from this computer"**
+4. Allow installation from unknow app and USB
+
+   
+# Run commands in directory of project
+cd flutter 
+flutter run
+
 
 ## 4. **API Documentation – All endpoints**
 
@@ -158,11 +175,22 @@ tasks ──┐
 text
 
 ## 6. **Screenshots – Flutter app screens**
-[Add screenshots here]
+Creating task
+![Creating task](https://github.com/user-attachments/assets/4860d436-1798-4a4f-907d-baca92e3c6d0)
+
+In Progress Task
+![In Progress Task](https://github.com/user-attachments/assets/9032ead6-111d-41c5-b028-0168a85116f1)
+
+Filter
+![filter](https://github.com/user-attachments/assets/50beb1d6-672d-4828-91cb-6580559ebb7b)
+
+High to Low Priority Task
+![high to low priority task](https://github.com/user-attachments/assets/963f6f7e-7df3-4f25-92f7-5b6ad7df27e8)
+
+Low to High Priority Task
+![low to high priority](https://github.com/user-attachments/assets/dd20503f-968d-44ca-bc9d-18f0224239f6)
 
 Stats + Filters	Search	Create Task
-![Stats]( ![Search]( ![Create](		
-text
 
 **Features shown:** Clickable stats ✅ | AI classification preview ✅ | Search/filters ✅
 
@@ -185,7 +213,6 @@ Unit tests (80% coverage)
 
 Due date picker + assignee dropdown
 
-text
 
 **Week 2+:**
 Push notifications
@@ -196,7 +223,7 @@ Team collaboration (users/roles)
 
 Advanced analytics dashboard
 
-text
+
 
 ## 🎮 **How to Use (Live Demo)**
 
@@ -210,7 +237,6 @@ SORT: 🎛️ Filter → High→Low priority
 
 UPDATE: Play→In Progress, Check→Done
 
-text
 
 ## 📱 **Demo Features**
 
@@ -243,3 +269,4 @@ MIT License
 ---
 
 ⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend + ALL REQUIREMENTS ✓**
+
