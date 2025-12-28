@@ -192,6 +192,13 @@ Low to High Priority Task
 
 Stats + Filters	Search	Create Task
 
+CHROME SS 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc8ea1e3-bc45-4510-b01d-4f13b061b622" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fcf422f5-8e23-42f4-ad6e-6cb5e3134f84" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc493d96-f03a-4975-82c8-672d0f3785dc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15bfaf69-a0b2-493f-a2f3-0dee70d4020b" />
+
+
 **Features shown:** Clickable stats ✅ | AI classification preview ✅ | Search/filters ✅
 
 ## 7. **Architecture Decisions – Why chosen**
@@ -269,4 +276,5 @@ MIT License
 ---
 
 ⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend + ALL REQUIREMENTS ✓**
+
 
