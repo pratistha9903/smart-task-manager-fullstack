@@ -271,10 +271,11 @@ text
 MIT License
 
 ## 👤 **Author**
-**Pratistha** - Fullstack Flutter Developer
+**Pratistha Srivastava**
 
 ---
 
 ⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend + ALL REQUIREMENTS ✓**
+
 
 
