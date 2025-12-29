@@ -103,13 +103,15 @@ cd backend
 npm install
 
 Add Supabase keys to .env
+
 npm start
 
 Test: http://localhost:3000/api/tasks
-text
+
 
 ### **Flutter Web (Chrome)**
 cd flutter
+
 Press 2 For Chrome
 
 
@@ -137,6 +139,7 @@ Press 2 For Chrome
    
 # Run commands in directory of project
 cd flutter 
+
 flutter run
 
 
@@ -166,13 +169,13 @@ due_date TIMESTAMPTZ,
 created_at TIMESTAMPTZ DEFAULT NOW()
 );
 
-text
+
 
 **ER Diagram:**
 tasks ──┐
 └── task_history (Future)
 
-text
+
 
 ## 6. **Screenshots – Flutter app screens**
 Creating task
@@ -254,7 +257,7 @@ UPDATE: Play→In Progress, Check→Done
 💻 Web: Responsive + hover effects
 ⚡ Offline: Network indicator + cached data
 
-text
+
 
 ## 🤝 **Contributing**
 Fork repo
@@ -265,7 +268,7 @@ git commit -m 'Add: new-feature'
 
 Push + PR
 
-text
+
 
 ## 📄 **License**
 MIT License
@@ -276,6 +279,7 @@ MIT License
 ---
 
 ⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend + ALL REQUIREMENTS ✓**
+
 
 
 
