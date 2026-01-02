@@ -9,7 +9,7 @@
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com)
 [![Render](https://img.shields.io/badge/Render-46E3B3?style=flat&logoColor=white)](https://render.com)
 
-# Smart Task Manager - Navicon Infraprojects Assessment
+# Smart Task Manager
 *Backend + Flutter Hybrid Developer Submission*
 
 ## 🚀 Live Demo **[Render Deployed ✓]**
@@ -279,6 +279,7 @@ MIT License
 ---
 
 ⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend + ALL REQUIREMENTS ✓**
+
 
 
 
