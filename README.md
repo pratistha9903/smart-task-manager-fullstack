@@ -1,6 +1,6 @@
 # 🚀 Pratistha's Smart Task Manager (Web & Mobile)
 
-**FULLSTACK Task Manager - Backend + Flutter Frontend - LIVE 24/7 - Navicon Infraprojects Assessment**
+**FULLSTACK Task Manager - Backend + Flutter Frontend - LIVE 24/7 
 
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
@@ -8,9 +8,6 @@
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com)
 [![Render](https://img.shields.io/badge/Render-46E3B3?style=flat&logoColor=white)](https://render.com)
-
-# Smart Task Manager
-*Backend + Flutter Hybrid Developer Submission*
 
 ## 🚀 Live Demo **[Render Deployed ✓]**
 **Backend API:** [https://smart-task-manager-fullstack.onrender.com/api/tasks](https://smart-task-manager-fullstack.onrender.com/api/tasks) **[Test Live]**  
@@ -279,6 +276,7 @@ MIT License
 ---
 
 ⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend + ALL REQUIREMENTS ✓**
+
 
 
 
