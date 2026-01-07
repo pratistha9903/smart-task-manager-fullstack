@@ -174,29 +174,56 @@ tasks ──┐
 
 
 
-## 6. **Screenshots – Flutter app screens**
-Creating task
-![Creating task](https://github.com/user-attachments/assets/4860d436-1798-4a4f-907d-baca92e3c6d0)
+## 📌 Task Management Application
 
-In Progress Task
+### 📝 Create Task
+Create tasks with title, description, priority, and status.
+
+![Creating Task](https://github.com/user-attachments/assets/4860d436-1798-4a4f-907d-baca92e3c6d0)
+
+---
+
+### 🔄 In Progress Task
+Move tasks from **Created** to **In Progress**.
+
 ![In Progress Task](https://github.com/user-attachments/assets/9032ead6-111d-41c5-b028-0168a85116f1)
 
-Filter
-![filter](https://github.com/user-attachments/assets/50beb1d6-672d-4828-91cb-6580559ebb7b)
+---
 
-High to Low Priority Task
-![high to low priority task](https://github.com/user-attachments/assets/963f6f7e-7df3-4f25-92f7-5b6ad7df27e8)
+### 🔍 Filter Tasks
+Filter tasks by status and priority.
 
-Low to High Priority Task
-![low to high priority](https://github.com/user-attachments/assets/dd20503f-968d-44ca-bc9d-18f0224239f6)
+![Filter](https://github.com/user-attachments/assets/50beb1d6-672d-4828-91cb-6580559ebb7b)
 
-Stats + Filters	Search	Create Task
+---
 
-CHROME SS 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc8ea1e3-bc45-4510-b01d-4f13b061b622" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fcf422f5-8e23-42f4-ad6e-6cb5e3134f84" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc493d96-f03a-4975-82c8-672d0f3785dc" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15bfaf69-a0b2-493f-a2f3-0dee70d4020b" />
+### ⬇️ High → Low Priority
+Sort tasks by priority from high to low.
+
+![High to Low Priority Task](https://github.com/user-attachments/assets/963f6f7e-7df3-4f25-92f7-5b6ad7df27e8)
+
+---
+
+### ⬆️ Low → High Priority
+Sort tasks by priority from low to high.
+
+![Low to High Priority Task](https://github.com/user-attachments/assets/dd20503f-968d-44ca-bc9d-18f0224239f6)
+
+---
+
+## 📊 Dashboard – Stats, Search & Filters
+
+- Task statistics overview
+- Search tasks by keyword
+- Combined filters for better task management
+- Clean and responsive UI optimized for Chrome (1920×1080)
+
+### Chrome Screenshots
+
+![Dashboard 1](https://github.com/user-attachments/assets/dc8ea1e3-bc45-4510-b01d-4f13b061b622)
+![Dashboard 2](https://github.com/user-attachments/assets/fcf422f5-8e23-42f4-ad6e-6cb5e3134f84)
+![Dashboard 3](https://github.com/user-attachments/assets/cc493d96-f03a-4975-82c8-672d0f3785dc)
+![Dashboard 4](https://github.com/user-attachments/assets/15bfaf69-a0b2-493f-a2f3-0dee70d4020b)
 
 
 **Features shown:** Clickable stats ✅ | AI classification preview ✅ | Search/filters ✅
@@ -276,6 +303,7 @@ MIT License
 ---
 
 ⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend + ALL REQUIREMENTS ✓**
+
 
 
 
