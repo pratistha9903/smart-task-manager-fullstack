@@ -220,10 +220,10 @@ Sort tasks by priority from low to high.
 
 ### Chrome Screenshots
 
-<img src="https://github.com/user-attachments/assets/dc8ea1e3-bc45-4510-b01d-4f13b061b622" width="250" />
-<img src="https://github.com/user-attachments/assets/fcf422f5-8e23-42f4-ad6e-6cb5e3134f84" width="250" />
-<img src="https://github.com/user-attachments/assets/cc493d96-f03a-4975-82c8-672d0f3785dc" width="250" />
-<img src="https://github.com/user-attachments/assets/15bfaf69-a0b2-493f-a2f3-0dee70d4020b" width="250" />
+<img src="https://github.com/user-attachments/assets/dc8ea1e3-bc45-4510-b01d-4f13b061b622" width="700" />
+<img src="https://github.com/user-attachments/assets/fcf422f5-8e23-42f4-ad6e-6cb5e3134f84" width="700" />
+<img src="https://github.com/user-attachments/assets/cc493d96-f03a-4975-82c8-672d0f3785dc" width="700" />
+<img src="https://github.com/user-attachments/assets/15bfaf69-a0b2-493f-a2f3-0dee70d4020b" width="700" />
 
 
 **Features shown:** Clickable stats ✅ | AI classification preview ✅ | Search/filters ✅
@@ -303,6 +303,7 @@ MIT License
 ---
 
 ⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend + ALL REQUIREMENTS ✓**
+
 
 
 
