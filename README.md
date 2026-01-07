@@ -179,35 +179,35 @@ tasks ──┐
 ### 📝 Create Task
 Create tasks with title, description, priority, and status.
 
-![Creating Task](https://github.com/user-attachments/assets/4860d436-1798-4a4f-907d-baca92e3c6d0)
+<img src="https://github.com/user-attachments/assets/4860d436-1798-4a4f-907d-baca92e3c6d0" width="250" />
 
 ---
 
 ### 🔄 In Progress Task
 Move tasks from **Created** to **In Progress**.
 
-![In Progress Task](https://github.com/user-attachments/assets/9032ead6-111d-41c5-b028-0168a85116f1)
+<img src="https://github.com/user-attachments/assets/9032ead6-111d-41c5-b028-0168a85116f1" width="250" />
 
 ---
 
 ### 🔍 Filter Tasks
 Filter tasks by status and priority.
 
-![Filter](https://github.com/user-attachments/assets/50beb1d6-672d-4828-91cb-6580559ebb7b)
+<img src="https://github.com/user-attachments/assets/50beb1d6-672d-4828-91cb-6580559ebb7b" width="250" />
 
 ---
 
 ### ⬇️ High → Low Priority
 Sort tasks by priority from high to low.
 
-![High to Low Priority Task](https://github.com/user-attachments/assets/963f6f7e-7df3-4f25-92f7-5b6ad7df27e8)
+<img src="https://github.com/user-attachments/assets/963f6f7e-7df3-4f25-92f7-5b6ad7df27e8" width="250" />
 
 ---
 
 ### ⬆️ Low → High Priority
 Sort tasks by priority from low to high.
 
-![Low to High Priority Task](https://github.com/user-attachments/assets/dd20503f-968d-44ca-bc9d-18f0224239f6)
+<img src="https://github.com/user-attachments/assets/dd20503f-968d-44ca-bc9d-18f0224239f6" width="250" />
 
 ---
 
@@ -220,10 +220,10 @@ Sort tasks by priority from low to high.
 
 ### Chrome Screenshots
 
-![Dashboard 1](https://github.com/user-attachments/assets/dc8ea1e3-bc45-4510-b01d-4f13b061b622)
-![Dashboard 2](https://github.com/user-attachments/assets/fcf422f5-8e23-42f4-ad6e-6cb5e3134f84)
-![Dashboard 3](https://github.com/user-attachments/assets/cc493d96-f03a-4975-82c8-672d0f3785dc)
-![Dashboard 4](https://github.com/user-attachments/assets/15bfaf69-a0b2-493f-a2f3-0dee70d4020b)
+<img src="https://github.com/user-attachments/assets/dc8ea1e3-bc45-4510-b01d-4f13b061b622" width="250" />
+<img src="https://github.com/user-attachments/assets/fcf422f5-8e23-42f4-ad6e-6cb5e3134f84" width="250" />
+<img src="https://github.com/user-attachments/assets/cc493d96-f03a-4975-82c8-672d0f3785dc" width="250" />
+<img src="https://github.com/user-attachments/assets/15bfaf69-a0b2-493f-a2f3-0dee70d4020b" width="250" />
 
 
 **Features shown:** Clickable stats ✅ | AI classification preview ✅ | Search/filters ✅
@@ -303,6 +303,7 @@ MIT License
 ---
 
 ⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend + ALL REQUIREMENTS ✓**
+
 
 
 
