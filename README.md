@@ -37,8 +37,6 @@
 <img width="547" height="151" alt="image" src="https://github.com/user-attachments/assets/73f57d51-2556-4c61-80d3-742f810ac903" />
 
 
-----
-
 AI TASK CLASSIFICATION ✅
 
 1)Auto priority (high/medium/low) + category
@@ -314,6 +312,7 @@ Push + PR
 ---
 
 ⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend + ALL REQUIREMENTS ✓**
+
 
 
 
