@@ -9,6 +9,8 @@
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com)
 [![Render](https://img.shields.io/badge/Render-46E3B3?style=flat&logoColor=white)](https://render.com)
 
+---
+
 ## 🚀 Live Demo **[Render Deployed ✓]**
 **Backend API:** [https://smart-task-manager-fullstack.onrender.com/api/tasks](https://smart-task-manager-fullstack.onrender.com/api/tasks) **[Test Live]**  
 **Flutter Dashboard:** Full CRUD + AI classification + search/filters + stats
@@ -30,13 +32,15 @@
 | **Form validation** | ✅ | Required fields + real-time validation |
 | **Render deployment** | ✅ | Live 24/7 API |
 
-## ✅ **WHAT YOU BUILT (Core Features Complete)**
+## ✅ **WHAT I  BUILT (Core Features Complete)**
 
 FULLSTACK TASK MANAGER APP
 ├── Backend: Node.js APIs (create/read/update/delete) ✅
 ├── Database: Supabase PostgreSQL ✅
 ├── Frontend: Flutter dashboard + search/filters ✅
 └── Render deployment (live 24/7) ✅
+
+----
 
 AI TASK CLASSIFICATION ✅
 
@@ -56,6 +60,7 @@ AI TASK CLASSIFICATION ✅
 
 8)Form validation + error SnackBars
 
+---
 
 ## ✅ **Assessment Checklist**
 | Item | Status | Notes |
@@ -67,6 +72,8 @@ AI TASK CLASSIFICATION ✅
 | **Task Classification** | ✅ | AI priority + override |
 | **Riverpod + Dio** | ✅ | Production-ready |
 | **Material 3** | ✅ | Responsive Web/Mobile |
+
+---
 
 ## 1. **Project Overview – What you built and why**
 
@@ -105,12 +112,14 @@ npm start
 
 Test: http://localhost:3000/api/tasks
 
+---
 
 ### **Flutter Web (Chrome)**
 cd flutter
 
 Press 2 For Chrome
 
+---
 
 ### 📱 Flutter Android (Physical Phone) - Step by Step
 
@@ -139,6 +148,7 @@ cd flutter
 
 flutter run
 
+---
 
 ## 4. **API Documentation – All endpoints**
 
@@ -150,6 +160,8 @@ flutter run
 | `DELETE` | `/api/tasks/:id` | - | `204 Deleted`
 
 **Live Test:** [https://smart-task-manager-fullstack.onrender.com/api/tasks](https://smart-task-manager-fullstack.onrender.com/api/tasks)
+
+---
 
 ## 5. **Database Schema – ER diagram**
 
@@ -217,6 +229,8 @@ Sort tasks by priority from low to high.
 - Search tasks by keyword
 - Combined filters for better task management
 - Clean and responsive UI optimized for Chrome (1920×1080)
+- 
+---
 
 ### Chrome Screenshots
 
@@ -228,6 +242,8 @@ Sort tasks by priority from low to high.
 
 **Features shown:** Clickable stats ✅ | AI classification preview ✅ | Search/filters ✅
 
+---
+
 ## 7. **Architecture Decisions – Why chosen**
 
 | Choice | Why | Alternative |
@@ -237,6 +253,8 @@ Sort tasks by priority from low to high.
 | **Supabase** | Production SQL + realtime | Firebase |
 | **Material 3** | Native look + responsive | Custom UI |
 | **Render** | Free + auto-deploy | Heroku/Vercel |
+
+---
 
 ## 8. **What I'd Improve – Given more time**
 
@@ -257,7 +275,7 @@ Team collaboration (users/roles)
 
 Advanced analytics dashboard
 
-
+---
 
 ## 🎮 **How to Use (Live Demo)**
 
@@ -271,7 +289,7 @@ SORT: 🎛️ Filter → High→Low priority
 
 UPDATE: Play→In Progress, Check→Done
 
-
+---
 ## 📱 **Demo Features**
 
 🏠 Dashboard: Live stats + CLICKABLE filter cards
@@ -281,7 +299,7 @@ UPDATE: Play→In Progress, Check→Done
 💻 Web: Responsive + hover effects
 ⚡ Offline: Network indicator + cached data
 
-
+---
 
 ## 🤝 **Contributing**
 Fork repo
@@ -292,17 +310,14 @@ git commit -m 'Add: new-feature'
 
 Push + PR
 
-
-
-## 📄 **License**
-MIT License
-
+---
 ## 👤 **Author**
 **Pratistha Srivastava**
 
 ---
 
 ⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend + ALL REQUIREMENTS ✓**
+
 
 
 
