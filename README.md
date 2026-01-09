@@ -32,13 +32,10 @@
 | **Form validation** | ✅ | Required fields + real-time validation |
 | **Render deployment** | ✅ | Live 24/7 API |
 
-## ✅ **WHAT I  BUILT (Core Features Complete)**
+## ✅ **Core Features**
 
-FULLSTACK TASK MANAGER APP
-├── Backend: Node.js APIs (create/read/update/delete) ✅
-├── Database: Supabase PostgreSQL ✅
-├── Frontend: Flutter dashboard + search/filters ✅
-└── Render deployment (live 24/7) ✅
+<img width="547" height="151" alt="image" src="https://github.com/user-attachments/assets/73f57d51-2556-4c61-80d3-742f810ac903" />
+
 
 ----
 
@@ -317,6 +314,7 @@ Push + PR
 ---
 
 ⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend + ALL REQUIREMENTS ✓**
+
 
 
 
