@@ -1,4 +1,4 @@
-# 🚀 Pratistha's Smart Task Manager (Web & Mobile)
+# 🚀 Smart Task Manager (Web & Mobile)
 
 **FULLSTACK Task Manager - Backend + Flutter Frontend - LIVE 24/7 
 
@@ -285,6 +285,7 @@ UPDATE: Play→In Progress, Check→Done
 ---
 
 ⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend**
+
 
 
 
