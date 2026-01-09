@@ -58,7 +58,7 @@ AI TASK CLASSIFICATION ✅
 ---
 
 
-## 1. **Project Overview – What you built and why**
+## 1. **Project Overview**
 
 **Production-ready task management system** for team collaboration:
 
@@ -162,10 +162,6 @@ created_at TIMESTAMPTZ DEFAULT NOW()
 );
 
 
-
-**ER Diagram:**
-tasks ──┐
-└── task_history (Future)
 
 
 
@@ -283,23 +279,13 @@ UPDATE: Play→In Progress, Check→Done
 ⚡ Offline: Network indicator + cached data
 
 ---
-
-## 🤝 **Contributing**
-Fork repo
-
-git checkout -b feature/new-feature
-
-git commit -m 'Add: new-feature'
-
-Push + PR
-
----
 ## 👤 **Author**
 **Pratistha Srivastava**
 
 ---
 
-⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend + ALL REQUIREMENTS ✓**
+⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend**
+
 
 
 
