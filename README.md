@@ -205,10 +205,13 @@ Sort tasks by priority from low to high.
 ## 📊 Dashboard – Stats, Search & Filters
 
 - Task statistics overview
+  
 - Search tasks by keyword
+  
 - Combined filters for better task management
+  
 - Clean and responsive UI optimized for Chrome (1920×1080)
-- 
+ 
 ---
 
 ### Chrome Screenshots
@@ -272,10 +275,15 @@ UPDATE: Play→In Progress, Check→Done
 ## 📱 **Demo Features**
 
 🏠 Dashboard: Live stats + CLICKABLE filter cards
+
 🔍 Search: Real-time title/description
+
 🎛️ Filters: Status + priority sort + visual chips
+
 📱 Mobile: 48px touch + draggable sheets
+
 💻 Web: Responsive + hover effects
+
 ⚡ Offline: Network indicator + cached data
 
 ---
@@ -285,6 +293,7 @@ UPDATE: Play→In Progress, Check→Done
 ---
 
 ⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend**
+
 
 
 
