@@ -87,6 +87,7 @@ TOOLS: Git/GitHub + VS Code
 
 ### **Backend (Local)**
 cd backend
+
 npm install
 
 Add Supabase keys to .env
@@ -293,6 +294,7 @@ UPDATE: Play→In Progress, Check→Done
 ---
 
 ⭐ **Star if helpful!** 🚀 **LIVE: Web + Mobile + Backend**
+
 
 
 
