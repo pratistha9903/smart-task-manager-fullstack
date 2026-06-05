@@ -226,6 +226,14 @@ Sort tasks by priority from low to high.
 **Features shown:** Clickable stats ✅ | AI classification preview ✅ | Search/filters ✅
 
 ---
+### Demo video(To show it was working)
+
+---
+
+### SQL code and Database Schema
+
+
+
 
 ## 7. **Architecture Decisions – Why chosen**
 
