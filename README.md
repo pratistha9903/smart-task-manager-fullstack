@@ -244,6 +244,12 @@ https://github.com/user-attachments/assets/a27f6da7-186f-438d-899e-06974b372247
 
 ---
 
+### Deployement on Render
+
+<img width="1889" height="864" alt="Image" src="https://github.com/user-attachments/assets/4ae1e019-1eb8-44ce-a0dd-787eed693a99" />
+
+---
+
 ## 7. **Architecture Decisions – Why chosen**
 
 | Choice | Why | Alternative |
