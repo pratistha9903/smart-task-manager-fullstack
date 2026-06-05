@@ -227,8 +227,11 @@ Sort tasks by priority from low to high.
 
 ---
 
-### Demo video(To show it was working)
+### Live Demo
+(Current deployment may be inactive due to hosting limitations.)
 
+##### Demo Video
+Demonstration of the fully working application before hosting services expired.
 
 https://github.com/user-attachments/assets/6992c4c3-73b0-47ee-a4ec-f331dadbb9dc
 
@@ -236,7 +239,7 @@ https://github.com/user-attachments/assets/6992c4c3-73b0-47ee-a4ec-f331dadbb9dc
 
 ---
 
-### SQL code and Database Schema
+### Database Schema & SQL Scripts
 
 
 https://github.com/user-attachments/assets/a27f6da7-186f-438d-899e-06974b372247
@@ -244,7 +247,8 @@ https://github.com/user-attachments/assets/a27f6da7-186f-438d-899e-06974b372247
 
 ---
 
-### Deployement on Render
+### Deployment
+Steps and screenshots for deployment on Render.
 
 <img width="1889" height="864" alt="Image" src="https://github.com/user-attachments/assets/4ae1e019-1eb8-44ce-a0dd-787eed693a99" />
 
