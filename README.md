@@ -1,6 +1,6 @@
 # 🚀 Smart Task Manager (Web & Mobile)
 
-**FULLSTACK Task Manager - Backend + Flutter Frontend - LIVE 24/7 
+**FULLSTACK Task Manager - Backend + Flutter Frontend - LIVE 24/7**
 
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
