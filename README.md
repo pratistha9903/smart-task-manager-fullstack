@@ -219,12 +219,12 @@ Sort tasks by priority from low to high.
  
 ---
 
-### Chrome Screenshots
+### Deployed website screenshort
 
-<img src="https://github.com/user-attachments/assets/dc8ea1e3-bc45-4510-b01d-4f13b061b622" width="700" />
-<img src="https://github.com/user-attachments/assets/fcf422f5-8e23-42f4-ad6e-6cb5e3134f84" width="700" />
-<img src="https://github.com/user-attachments/assets/cc493d96-f03a-4975-82c8-672d0f3785dc" width="700" />
-<img src="https://github.com/user-attachments/assets/15bfaf69-a0b2-493f-a2f3-0dee70d4020b" width="700" />
+<img width="1909" height="958" alt="Image" src="https://github.com/user-attachments/assets/e4077049-fbe8-41ee-873f-a28819638395" />
+<img width="1914" height="900" alt="Image" src="https://github.com/user-attachments/assets/db2a52f1-3f68-470e-aa44-5ad85ecd8636" />
+<img width="1919" height="955" alt="Image" src="https://github.com/user-attachments/assets/f29419c5-df41-49ef-b961-c2c39b62fb39" />
+<img width="1919" height="965" alt="Image" src="https://github.com/user-attachments/assets/4015b338-3c3f-437d-a627-d3e16cfced12" />
 
 
 **Features shown:** Clickable stats ✅ | AI classification preview ✅ | Search/filters ✅
