@@ -13,6 +13,10 @@
 
 ## 🚀 Live Demo **[Render Deployed ✓]**
 **Backend API:** [https://smart-task-manager-fullstack.onrender.com/api/tasks](https://smart-task-manager-fullstack.onrender.com/api/tasks) **[Test Live]**  
+
+**Deployed On  Render:**
+https://smart-task-manager-fullstack-website.onrender.com
+
 **Flutter Dashboard:** Full CRUD + AI classification + search/filters + stats
 
 ## ✅ **Implemented task**
