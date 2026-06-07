@@ -237,8 +237,7 @@ Sort tasks by priority from low to high.
 ##### Demo Video
 Demonstration of the fully working application before hosting services expired.
 
-https://github.com/user-attachments/assets/6992c4c3-73b0-47ee-a4ec-f331dadbb9dc
-
+https://github.com/user-attachments/assets/665472a3-8ece-414e-a65e-bbc565324cef
 
 
 ---
